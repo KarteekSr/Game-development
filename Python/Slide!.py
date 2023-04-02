@@ -1,5 +1,3 @@
-"""The sliding game. The user has to arrange the tiles in ascending order where 1 is at the top left.
----------------------------------------------------------------------------------------------------------------"""
 # Import necessary modules
 import random
 import tkinter
